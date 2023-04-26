@@ -1,0 +1,44 @@
+Name: Project1
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/CPQCreateOpportunity
+    - DataRaptor/CPQGetGroupsToCreateList
+    - DataRaptor/CPQGetProductsFromAssets
+    - DataRaptor/cpqGetRecordType
+    - DataRaptor/CreateOrderRequestData
+    - DataRaptor/CreateQuoteRequestData
+    - DataRaptor/GetAccountFromAsset
+    - DataRaptor/GetExistingAssetsFromOrderItem
+    - IntegrationProcedure/CPQ_GetAssetViewerLineItems
+    - IntegrationProcedure/CPQ_StartBulkCreateGroups
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - OmniScript/CPQ_AssetViewerQuoteFlow_Multi-Language
+    - OmniScript/CPQ_ChangeToOrder_Multi-Language
+    - OmniScript/CPQ_CreateOrder_Multi-Language
+    - OmniScript/CPQ_SingleMove_Multi-Language
+    - VlocityCard/cpqAdvancedSearchLineItem
+    - VlocityCard/cpqAssetSearch
+    - VlocityCard/cpqAssetViewerAdvancedSearch
+    - VlocityCard/cpqAssetViewerChildLineItem
+    - VlocityCard/cpqAssetViewerContainer
+    - VlocityCard/cpqAssetViewerGroupLineItems
+    - VlocityCard/cpqAssetViewerLineItem
+    - VlocityCard/cpqAssetViewerSelectAllAssets
+    - VlocityCard/cpqCartInlineChildPromoForAssetViewer
+    - VlocityCard/cpqCartInlinePromoForAssetViewer
+    - VlocityCard/cpqPromotionDetailViewForAssetViewer
+    - VlocityCard/cpqSpinner
+    - VlocityCard/ESM_SelfService_AssetViewContainer
+    - VlocityCard/ESM_SelfService_AssetViewerAttributeTooltip
+    - VlocityCard/ESM_SelfService_AssetViewerColumn
+    - VlocityCard/ESM_SelfService_AssetViewerGroupItems
+    - VlocityCard/ESM_SelfService_AssetViewerItemAttribute
+    - VlocityCard/ESM_SelfService_AssetViewerLineItem
+    - VlocityCard/ESM_SelfService_Spinner
+    - DataRaptor/UpdateOrderAccount
+VlocityTypesToFetch:
+    - DataRaptor
+    - IntegrationProcedure
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
